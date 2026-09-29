@@ -1,4 +1,6 @@
-.*
-!.github
-!.gitignore
-CLAUDE.local.md
+.venv/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+*.egg-info/

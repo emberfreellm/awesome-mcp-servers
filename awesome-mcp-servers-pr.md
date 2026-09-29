@@ -3,7 +3,7 @@
 ## Repository and Entry Details
 
 **Repository:** emberfreellm/freellm-mcp  
-**PR Target:** punkpeye/awesome-mcp-servers
+**PR Target:** emberfreellm/awesome-mcp-servers
 **Entry Type:** Server Implementations (🔗 Aggregators)
 
 ## Server Information
